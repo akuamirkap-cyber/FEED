@@ -1,0 +1,6 @@
+{
+  "name": "Fish.io — Tropical Reef Feeding Frenzy",
+  "description": "3D Tropical Reef Feeding Frenzy game with procedural reef corals, realistic 3D fish and sharks, dynamic underwater lighting, and arcade progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
